@@ -1,8 +1,10 @@
 ---
-title: Recommended Directives and Guidelines
+title: Recommended Directives
 lang: en
 ref: recommended-directives-guidelines
 ---
+> Note: Guidelines have been moved to a [distinct document](recommended-guidelines.md) for clarity purposes.
+
 ## Directives and Guidelines
 
 Draft work on baseline set of guidelines/directives for jurisdictions getting started with open source.
