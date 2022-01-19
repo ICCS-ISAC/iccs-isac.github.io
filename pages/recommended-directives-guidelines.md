@@ -5,25 +5,17 @@ ref: recommended-directives-guidelines
 ---
 > Note: Guidelines have been moved to a [distinct document](recommended-guidelines.md) for clarity purposes.
 
-## Directives and Guidelines
+## Directives
 
-Draft work on baseline set of guidelines/directives for jurisdictions getting started with open source.
+Draft work on baseline set of directives for jurisdictions across Canada getting started with open source.
 
 ### Use of third party open source software
 
-The working group recommends that clear directives/guidelines identify the following:
+The working group recommends that clear directives identify the following:
 
-- Acquisition of new IT-enabled solutions must include standard provisions supporting the use of OSS as the underlying tools.
+- Acquisition of new IT-enabled solutions must include standard provisions supporting the use of OSS as the underlying tools and technologies.
   - Those provisions must support all possible models of acquisitions, including but not limited to fully outsourced systems via RFPs, in-house development, 3rd party custom development, combinations, etc.
 - All software developed by a 3rd party, whether proprietary or open source, must be assessed against the same criteria.
-  - Suggested list of criteria:
-    - OWASP Top 10
-    - SANS Securing the Software Development Lifecycle
-    - Secure by Design/Privacy by Design
-    - Appropriate Open Source License
-    - Vetted security cipher algorithms (not “home grown”)
-    - Using standard communication protocols (e.g., TLS – not what port it uses)
-    - Process for adoption of new code may need quorum approval otherwise a formal fork of code would be recognized – more thought needed here
 
 Rationale:
 
