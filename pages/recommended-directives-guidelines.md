@@ -31,13 +31,16 @@ Additional questions and comments from the working group:
 - Guidance and official position of the jurisdiction is required to clarify the liability of the organisation with regards to maintenance of forked code. It needs to be determined ahead of a decision to fork an open source project  – is this obvious? Bigger question? Applies only to “core” code used by all?
   - Clarification required for this question: what is the scenario like?
 
-### Contribute to third party open source software projects
+### Acquiring Custom Software
 
-The working group recommends that clear directives/guidelines identify the following:
-
-- When acquiring custom software or procuring source code via 3rd party, source code and software must be obtained:
+- When acquiring custom software or procuring source code via 3rd party, the source code and custom software must be obtained:
   - under an open source licence of the jurisdiction’s choice; or
   - with sufficient rights for the jurisdiction to release it under terms and conditions of its choice.
+
+### Contribute to third party open source software projects
+
+The working group recommends that clear directives identify the following:
+
 - When using 3rd party open source software:
   - Employees are to:
     - use the software as is or with as minimal modifications as possible to reduce internal maintenance in the long run.
