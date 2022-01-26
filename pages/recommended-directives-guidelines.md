@@ -3,7 +3,7 @@ title: Recommended Directives
 lang: en
 ref: recommended-directives-guidelines
 ---
-Draft work on baseline set of directives for jurisdictions across Canada getting started with open source.
+Draft directives for jurisdictions across Canada getting started with open source.
 
 > Note: Guidelines have been moved to a [distinct document](recommended-guidelines.md) for clarity purposes.
 
@@ -37,7 +37,7 @@ Additional questions and comments from the working group:
 
 ## Acquiring Custom Software
 
-- When acquiring custom software or procuring source code via 3rd party, the source code and custom software must be obtained:
+- When acquiring custom software or procuring source code via a 3rd party, the source code and custom software must be obtained:
   - under an open source licence of the jurisdiction’s choice; or
   - with sufficient rights for the jurisdiction to release it under terms and conditions of its choice.
 
