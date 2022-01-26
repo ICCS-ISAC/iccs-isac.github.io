@@ -3,13 +3,17 @@ title: Recommended Directives
 lang: en
 ref: recommended-directives-guidelines
 ---
-> Note: Guidelines have been moved to a [distinct document](recommended-guidelines.md) for clarity purposes.
-
-## Directives
-
 Draft work on baseline set of directives for jurisdictions across Canada getting started with open source.
 
-### Use of third party open source software
+> Note: Guidelines have been moved to a [distinct document](recommended-guidelines.md) for clarity purposes.
+
+- [Use of third party open source software](#use-of-third-party-open-source-software)
+- [Acquiring Custom Software](#acquiring-custom-software)
+- [Contribute to third party open source software projects](#contribute-to-third-party-open-source-software-projects)
+- [Publishing in-house projects as open source](#publishing-in-house-projects-as-open-source)
+- [Management of open source software](#management-of-open-source-software)
+
+## Use of third party open source software
 
 The working group recommends that clear directives identify the following:
 
@@ -31,13 +35,13 @@ Additional questions and comments from the working group:
 - Guidance and official position of the jurisdiction is required to clarify the liability of the organisation with regards to maintenance of forked code. It needs to be determined ahead of a decision to fork an open source project  – is this obvious? Bigger question? Applies only to “core” code used by all?
   - Clarification required for this question: what is the scenario like?
 
-### Acquiring Custom Software
+## Acquiring Custom Software
 
 - When acquiring custom software or procuring source code via 3rd party, the source code and custom software must be obtained:
   - under an open source licence of the jurisdiction’s choice; or
   - with sufficient rights for the jurisdiction to release it under terms and conditions of its choice.
 
-### Contribute to third party open source software projects
+## Contribute to third party open source software projects
 
 The working group recommends that clear directives identify the following:
 
@@ -59,7 +63,7 @@ Additional questions and comments from the working group:
 - Liability needs to be clearly documented and formally accepted before use and contribution
 - Liability for maintenance of forked code needs to be determined – is this obvious? Bigger question? Applies only to “core” code used by all?
 
-### Publishing in-house projects as open source
+## Publishing in-house projects as open source
 
 The working group recommends that clear directives/guidelines identify the following:
 
@@ -80,7 +84,7 @@ Additional questions and comments from the working group:
 
 - If there is code not posted for security, etc. reasons, is the existence of the code available?
 
-### Management of open source software
+## Management of open source software
 
 The working group recommends the creation of a departmental group of specialists in the form of a small but versatile open source program office with a mandate to:
 
