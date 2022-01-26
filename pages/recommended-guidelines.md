@@ -3,11 +3,15 @@ title: Recommended Directives and Guidelines
 lang: en
 ref: recommended-guidelines
 ---
-## Directives and Guidelines
+Draft guidelines for jurisdictions getting started with open source.
 
-Draft work on baseline set of guidelines/directives for jurisdictions getting started with open source.
+- [Use of third party open source software](#use-of-third-party-open-source-software)
+- [Acquiring Custom Software](#acquiring-custom-software)
+- [Contribute to third party open source software projects](#contribute-to-third-party-open-source-software-projects)
+- [Publishing in-house projects as open source](#publishing-in-house-projects-as-open-source)
+- [Management of open source software](#management-of-open-source-software)
 
-### Use of third party open source software
+## Use of third party open source software
 
 The working group recommends that clear guidelines identify the following:
 
@@ -34,7 +38,9 @@ Additional questions and comments from the working group:
 - Guidance and official position of the jurisdiction is required to clarify the liability of the organisation with regards to maintenance of forked code. It needs to be determined ahead of a decision to fork an open source project  – is this obvious? Bigger question? Applies only to “core” code used by all?
   - Clarification required for this question: what is the scenario like?
 
-### Contribute to third party open source software projects
+## Acquiring Custom Software
+
+## Contribute to third party open source software projects
 
 The working group recommends that clear directives/guidelines identify the following:
 
@@ -59,7 +65,7 @@ Additional questions and comments from the working group:
 - Liability needs to be clearly documented and formally accepted before use and contribution
 - Liability for maintenance of forked code needs to be determined – is this obvious? Bigger question? Applies only to “core” code used by all?
 
-### Publishing in-house projects as open source
+## Publishing in-house projects as open source
 
 The working group recommends that clear directives/guidelines identify the following:
 
@@ -80,7 +86,7 @@ Additional questions and comments from the working group:
 
 - If there is code not posted for security, etc. reasons, is the existence of the code available?
 
-### Management of open source software
+## Management of open source software
 
 The working group recommends the creation of a departmental group of specialists in the form of a small but versatile open source program office with a mandate to:
 
