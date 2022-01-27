@@ -45,18 +45,17 @@ Additional questions and comments from the working group:
 
 The working group recommends that clear directives identify the following:
 
-- When using 3rd party open source software:
-  - Employees are to:
-    - use the software as is or with as minimal modifications as possible to reduce internal maintenance in the long run.
-    - if modifications are necessary, employees must strive to contribute those modifications back to the main 3rd party project to remain as close as possible to the main version of the software.
-    - clearly identify themselves as Jurisdiction’s employees when making contributions to 3rd party open source software.
-    - continuously abide by the Jurisdictions Values and Ethics when working in the open.
-    - to confirm with [designated group/team/individual] that it is not a conflict of interest for them to contribute the designated 3rd party project
-    - to confirm with [designated group/team/individual/central repository] that contributions to the designated 3rd party project are authorized
-    - ask for authorization to their [insert level in hierarchy] to apply a valid open source licence to the jurisdiction’s copyrighted material contributed to the designated 3rd party open source project.
-    Notes:  
-      - Hierarchy level is encouraged to be delegated as close as possible to the team involved in the contribution to the 3rd party.
-      - Selection of the open source licence must be confirmed due to compliance requirements.
+- When leveraging a 3rd party open source software internally, employees are to:
+  - use the software as is or with as minimal modifications as possible to reduce internal maintenance in the long term.
+  - if modifications are necessary, employees must strive to contribute those modifications back to the main 3rd party project to remain as close as possible to the main version of the software.
+  - clearly identify themselves as Jurisdiction’s employees when making contributions to 3rd party open source software.
+  - continuously abide by the Jurisdictions Values and Ethics when working in the open.
+  - confirm with [designated group/team/individual] that it is not a conflict of interest for them to contribute the designated 3rd party project
+  - confirm with [designated group/team/individual/central repository] that contributions to the designated 3rd party project are authorized
+  - ask for authorization to their [insert level in hierarchy] to apply a valid open source licence to the jurisdiction’s copyrighted material contributed to the designated 3rd party open source project.
+  Notes:  
+    - Hierarchy level is encouraged to be delegated as close as possible to the team involved in the contribution to the 3rd party.
+    - Selection of the open source licence must be confirmed due to compliance requirements.
 
 Additional questions and comments from the working group:
 
