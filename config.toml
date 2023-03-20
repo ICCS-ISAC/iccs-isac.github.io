@@ -1,3 +1,21 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = 'hugo-book'
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "ICCS GitHub Content"
+    weight = 1
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "ICCS GitHub Content"
+      author = "ICCS OSS Working Group and Open North"
+  [languages.fr]
+    languageName = "Français"
+    title = "Contenu GitHub de l'ISAC"
+    weight = 2
+    contentDir = "content/fr"
+    [languages.fr.params]
+      description = "Contenu GitHub de l'ISAC"
+      author = "Groupe de travail du logiciel libre de l'ISAC et Nord Ouvert"
+
