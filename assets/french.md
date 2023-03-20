@@ -1,4 +1,6 @@
-**Version 1.0**
+# Introduction aux logiciels libres
+
+Version 1.0
 
 Nord Ouvert
 
@@ -22,7 +24,7 @@ Ce matériel de formation a été conçu par Nord Ouvert, à la demande de l'Ins
 
 **Nous tenons également à remercier la communauté de pratique des logiciels libres pour ses contributions :** Guillaume Charest (Service numérique canadien), Alexandre Cloutier (Agence du revenu du Canada), Olivia Courney (Services numériques de l'Ontario), Kevan Hannah (Services numériques de l'Ontario), Alan Harnum (Services numériques de l'Ontario), Katy Lalonde (Services numériques de l'Ontario), Patrick McCabe (Services numériques de la Nouvelle-Écosse), et Bianca Tomazeli (Ville de Montréal).
 
-Ce cours est protégé par une licence de [[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)]{.underline}](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+Ce cours est protégé par une licence de [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 Si vous créez une adaptation de cette œuvre, veuillez ajouter la clause de non-responsabilité suivante avec l'attribution :
 
@@ -32,17 +34,17 @@ Si vous créez une adaptation de cette œuvre, veuillez ajouter la clause de non
 
 # Table des matières
 
-[Avant-propos [ii](#avant-propos)](#avant-propos)
+[Avant-propos](#avant-propos)
 
-[À propos de ce cours [ii](#à-propos-de-ce-cours)](#à-propos-de-ce-cours)
+[À propos de ce cours](#à-propos-de-ce-cours)
 
-[Aperçu du cours [1](#section)](#section)
+[Aperçu du cours](#aperçu-du-cours)
 
 Objectifs d\'apprentissage [[1](#objectifs-dapprentissage-du-cours)](#objectifs-dapprentissage-du-cours)
 
-Aperçu et structure des modules [de cours [1](#aperçu-et-structure-des-modules-de-cours)](#aperçu-et-structure-des-modules-de-cours)
+[Aperçu et structure des modules de cours](#aperçu-et-structure-des-modules-de-cours)
 
-[Module 1 : Introduction aux logiciels libres [3](#module-1-introduction-aux-logiciels-libres)](#module-1-introduction-aux-logiciels-libres)
+[Module 1 : Introduction aux logiciels libres](#module-1--introduction-aux-logiciels-libres)
 
 [Objectifs d'apprentissage [3](#objectifs-dapprentissage)](#objectifs-dapprentissage)
 
@@ -106,9 +108,9 @@ Objectifs d\'apprentissage [[61](#objectifs-dapprentissage-4)](#objectifs-dappre
 
 [Section 2 : Stratégies de collaboration en ce qui concerne les logiciels libres [66](#section-2-stratégies-de-collaboration-en-ce-qui-concerne-les-logiciels-libres)](#section-2-stratégies-de-collaboration-en-ce-qui-concerne-les-logiciels-libres)
 
-Ressources supplémentaires [[69](#_Toc120030523)](#_Toc120030523)
+[Ressources supplémentaires] [[69](#_Toc120030523)](#_Toc120030523)
 
-[Glossaire [70](#glossaire)](#glossaire)
+[Glossaire](#glossaire)
 
 [Annexe A : Documents d'une page à l'intention de la haute direction [75](#annexe-a-documents-dune-page-à-lintention-de-la-haute-direction)](#annexe-a-documents-dune-page-à-lintention-de-la-haute-direction)
 
@@ -123,8 +125,6 @@ Document n^o^ [4 : Sécurité et mise à niveau des logiciels libres [81](#docum
 Document n^o^ [5 : Collaboration en ce qui concerne les logiciels libres [82](#document-no-5-collaboration-en-ce-qui-concerne-les-logiciels-libres)](#document-no-5-collaboration-en-ce-qui-concerne-les-logiciels-libres)
 
 [Annexe B : Mise en œuvre du cours [83](#section-7)](#section-7)
-
-#
 
 # Aperçu du cours
 
