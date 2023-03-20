@@ -1,0 +1,24 @@
+{
+  "name": "iccs-isac.io",
+  "version": "1.0.0",
+  "description": "ICCS GitHub Web Content - Contenu Web de l'ISAC sur GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spellcheck": "cspell --no-progress -u \"content/**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICCS-ISAC/iccs-isac.io.git"
+  },
+  "author": "Guillaume Charest",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ICCS-ISAC/iccs-isac.io/issues"
+  },
+  "homepage": "https://github.com/ICCS-ISAC/iccs-isac.io#readme",
+  "devDependencies": {
+    "@cspell/dict-fr-fr": "^2.2.1",
+    "cspell": "^6.30.2"
+  }
+}
