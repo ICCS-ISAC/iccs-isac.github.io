@@ -1,3 +1,4 @@
+<!--markdownlint-disable -->
 # Introduction aux logiciels libres
 
 Version 1.0
