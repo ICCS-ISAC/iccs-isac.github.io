@@ -1,6 +1,7 @@
 ---
 title: Les logiciels libres dans le secteur public
 description: Cours destiné aux cadres du secteur public
+url: "docs/materiel-apprentissage/"
 ---
 
 # {{< param title >}}

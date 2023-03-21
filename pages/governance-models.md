@@ -14,7 +14,7 @@ The working group recommends that for open source projects that may be of value 
 - A multi-jurisdictional team of developers could be set to provide in-kind contributions instead of transferring funds between jurisdictions.
 - The ownership of the source code be assigned to the Jurisdiction taking the lead on the project but transfer model be devised in case leadership be transferred.
 - The copyright of each contribution remains with the jurisdictions or individuals contributing them (no Contributors Licence Agreements to transfer IP to the Project Lead Jurisdiction
-- The it is established that there are no liabilities to the Project Lead Jurisdiction or the participating jurisdictions 
+- The it is established that there are no liabilities to the Project Lead Jurisdiction or the participating jurisdictions
 Note: This is the same for all OSS licences
 - This model could be implement within a few months upon further development and legal review.
 

@@ -4,3 +4,6 @@ date: {{ .Date }}
 draft: true
 ---
 
+# {{< param title >}}
+
+{{ .Content }}

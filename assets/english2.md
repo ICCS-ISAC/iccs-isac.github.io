@@ -1,3 +1,5 @@
+<!--markdownlint-disable -->
+
 **Version 1.0**
 
 Open North
