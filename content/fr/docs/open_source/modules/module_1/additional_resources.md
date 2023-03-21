@@ -1,7 +1,7 @@
 ---
 title: "Module 1 Ressources supplémentaires"
 weight: 5
-url: "docs/materiel-apprentissage/modules/module_1/ressources-supplementaires"
+url: "docs/logiciels-libres/modules/module_1/ressources-supplementaires"
 ---
 
 # {{< param title >}}

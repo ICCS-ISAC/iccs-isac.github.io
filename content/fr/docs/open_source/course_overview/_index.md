@@ -1,6 +1,6 @@
 ---
 title: Aperçu du cours
-url: "docs/materiel-apprentissage/apercu-du-cours/"
+url: "docs/logiciels-libres/apercu-du-cours/"
 ---
 
 # {{< param title >}}
