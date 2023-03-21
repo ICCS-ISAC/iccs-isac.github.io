@@ -1,7 +1,7 @@
 ---
 title: "Avant-propos"
 date: 2023-01-01T00:00:00+01:00
-url: "docs/materiel-apprentissage/avant-propos"
+url: "docs/logiciels-libres/avant-propos"
 ---
 
 # {{< param title >}}

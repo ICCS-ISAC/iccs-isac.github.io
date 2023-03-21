@@ -1,7 +1,7 @@
 ---
 title: "Module 1 Résumé"
 weight: 4
-url: "docs/materiel-apprentissage/modules/module_1/resume"
+url: "docs/logiciels-libres/modules/module_1/resume"
 ---
 
 # {{< param title >}}
