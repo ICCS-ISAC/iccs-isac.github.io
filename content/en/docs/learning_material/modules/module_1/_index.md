@@ -5,7 +5,6 @@ bookCollapseSection: true
 
 # {{< param title >}}
 
-
 ## Learning Objectives
 
 In this module we will:
