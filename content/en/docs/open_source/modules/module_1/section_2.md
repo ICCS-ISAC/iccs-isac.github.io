@@ -58,3 +58,16 @@ INSERT FIGURE 1.2 HERE
   - Regardless of how software is developed, it can be released under an open source license. The challenges and opportunities of open source software are more specific and unique once it has been released under an open source license, entering the maintenance and adaptation phase.
 - Integration: At any point, someone may decide that their needs are unique enough to merit a fully customized version of the software. They can create a copy of the source code and alter it as they see fit, without re-integrating changes into the main source code. This is known as a “hard fork” because it starts a new path, disconnected from the original source code.
 - Revenue: End users do not pay for access to the source code. However, that doesn’t mean open source software is free – there are costs associated with adapting, hosting, and maintaining the software. These costs might go toward in-house personnel or contracting an external technical service provider.
+
+{{< hint info >}}
+**Box 1.1: Origins of the Open Source Software Movement**
+The open source software movement was inspired by the opportunity to bring together a global community to create, grow and adapt software freely and collaboratively.
+
+- “Open source” software is not the same as “free” software. In English, “free” can mean “at no monetary cost” (gratis) and/or “with little or no restriction” (libre).
+- In the 1990s, software developers started making their software free (gratis) because the marginal cost of each unit was zero. The software was given away at no cost in this paradigm, but the rights stayed with the original developer.
+- The open-source software movement emerged soon after. It was important because it focused on opening up the rights to access and edit code, not just making software free to use.[^1] Software would be free (libre) – so that other developers could not only use it but also change and improve it.
+- In an iconic essay, one of the fathers of the Open Source movement, Lawrence Lessig, coined the phrase, “think of free speech versus free beer”[^2]: free software is like free beer (no cost), while open source software is like free speech (unrestricted access and reproduction).
+
+[^1]: Eric S. Raymond, “The Cathedral and the Bazaar,” Knowledge, Technology & Policy 12, no. 3 (September 1999): 23–49, https://doi.org/10.1007/s12130-999-1026-0.
+[^2]: Lawrence Lessig, “Free, as in Beer,” WIRED, September 1, 2006, https://www.wired.com/2006/09/free-as-in-beer/.
+{{< /hint >}}
