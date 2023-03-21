@@ -77,3 +77,16 @@ INSERT FIGURE 1.2 HERE
 - **Intégration :** À tout moment, un utilisateur peut décider que ses besoins sont suffisamment uniques pour mériter une version entièrement personnalisée du logiciel. Il peut alors créer une copie du code source et la modifier comme bon lui semble, sans réintégrer les modifications dans le code source principal. Cette opération est connue sous le nom de « hard fork » (changement de protocole), car elle ouvre une nouvelle voie, déconnectée du code source original.
 
 - **Revenu :** Les utilisateurs finaux ne paient pas pour avoir accès au code source. Toutefois, cela ne signifie pas que les logiciels libres sont gratuits. L'adaptation, l'hébergement et la mise à niveau des logiciels entraînent des coûts. Ces coûts peuvent être consacrés au personnel interne ou à l'embauche d'un prestataire de services techniques externe.
+
+{{< hint info >}}
+**Encadré 1.1 : Origines du mouvement des logiciels libres**
+Le mouvement des logiciels libres a été inspiré par la possibilité de rassembler une collectivité mondiale pour créer, développer et adapter des logiciels librement et en collaboration.
+
+- Les logiciels « libres » ne sont pas des logiciels « gratuits ». En anglais, le mot « free » peut signifier « gratuit » et/ou « assorti de peu ou pas de restriction » (libre).
+- Dans les années 1990, les concepteurs de logiciels ont commencé à offrir leurs logiciels gratuitement parce que le coût marginal de chaque unité était nul. Dans un tel contexte, le logiciel est offert gratuitement, mais le concepteur conserve les droits afférents au logiciel.
+- Le mouvement des logiciels libres est apparu peu après. Ce mouvement a été important parce qu’il misait sur la possibilité d’accès au code et de modification de celui-ci, et pas simplement sur la gratuité de l’utilisation des logiciels.[^1] Les logiciels seraient libres, de sorte que d’autres concepteurs pourraient non seulement les utiliser, mais également les modifier et les améliorer.
+- Dans un essai emblématique, l’un des pères du mouvement des logiciels libres, Lawrence Lessig, a lancé l’expression « pensez à la liberté d’expression par opposition à la bière gratuite » [^2]: les logiciels gratuits sont comme la bière gratuite, alors tandis que les logiciels libres se comparent à la liberté d’expression (accès et reproduction sans restriction).
+
+[^1]: Eric S. Raymond, “The Cathedral and the Bazaar,” Knowledge, Technology & Policy 12, no. 3 (September 1999): 23–49, https://doi.org/10.1007/s12130-999-1026-0.
+[^2]: Lawrence Lessig, “Free, as in Beer,” WIRED, September 1, 2006, https://www.wired.com/2006/09/free-as-in-beer/.
+{{< /hint >}}
