@@ -1,5 +1,5 @@
 ---
-title: "Module 1 Résumé"
+title: "Résumé"
 weight: 4
 url: "docs/logiciels-libres/modules/module_1/resume"
 ---
