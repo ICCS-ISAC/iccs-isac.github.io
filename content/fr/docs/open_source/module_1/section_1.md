@@ -1,7 +1,7 @@
 ---
 title: "Section 1 : De quelle façon les gouvernements utilisent-ils les logiciels?"
 weight: 1
-url: "docs/logiciels-libres/modules/module_1/section_1"
+url: "docs/logiciels-libres/module_1/section_1"
 ---
 
 # {{< param title >}}

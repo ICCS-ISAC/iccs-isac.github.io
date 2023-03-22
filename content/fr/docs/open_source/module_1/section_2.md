@@ -1,7 +1,7 @@
 ---
 title: "Section 2: Les fondements des logiciels"
 weight: 2
-url: "docs/logiciels-libres/modules/module_1/section_2"
+url: "docs/logiciels-libres/module_1/section_2"
 ---
 
 # {{< param title >}}

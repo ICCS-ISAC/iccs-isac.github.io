@@ -1,6 +1,6 @@
 ---
 title: "Section 1 : Paysage politique et législatif"
-url: "docs/logiciels-libres/modules/module_2/section_1/"
+url: "docs/logiciels-libres/module_2/section_1/"
 weight: 1
 ---
 
