@@ -1,5 +1,5 @@
 ---
-title: "Module 1 Additional Resources "
+title: "Additional Resources "
 weight: 5
 ---
 

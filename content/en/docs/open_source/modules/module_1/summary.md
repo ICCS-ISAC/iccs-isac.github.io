@@ -1,5 +1,5 @@
 ---
-title: "Module 1 Summary"
+title: "Summary"
 weight: 4
 ---
 

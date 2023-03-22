@@ -1,5 +1,5 @@
 ---
-title: "Module 1 Ressources supplémentaires"
+title: "Ressources supplémentaires"
 weight: 5
 url: "docs/logiciels-libres/modules/module_1/ressources-supplementaires"
 ---
