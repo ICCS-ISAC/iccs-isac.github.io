@@ -16,7 +16,7 @@ Toutes ces personnes doivent être capables de poser les bonnes questions, de d�
 
 La dotation en personnel technique est l'un des principaux obstacles perçus en ce qui concerne l'adoption des logiciels libres. Étant donné que les logiciels libres nécessitent une participation active de l'utilisateur (par opposition aux logiciels propriétaires, dont le service et la mise à niveau sont assurés par le vendeur), nombreux sont ceux qui supposent qu'ils sont inaccessibles sans capacités de développement de logiciels.
 
-À l'inverse, nombreux sont ceux qui pensent que l'obtention d'un logiciel propriétaire auprès d'un fournisseur signifie qu'ils n'ont pas besoin d'experts techniques au sein de leur effectif.Or, en l'absence d'expertise interne, les processus de passation de marchés, d'acquisition et de mise en œuvre de logiciels propriétaires peuvent avoir des conséquences néfastes. Sans une connaissance adéquate de la propriété et de la monétisation des données, un contrat portant sur un logiciel propriétaire peut finir par priver le secteur public de tout pouvoir à long terme (voir le [module 3](#_heading=h.o24g9bwi3uvb)).
+À l'inverse, nombreux sont ceux qui pensent que l'obtention d'un logiciel propriétaire auprès d'un fournisseur signifie qu'ils n'ont pas besoin d'experts techniques au sein de leur effectif.Or, en l'absence d'expertise interne, les processus de passation de marchés, d'acquisition et de mise en œuvre de logiciels propriétaires peuvent avoir des conséquences néfastes. Sans une connaissance adéquate de la propriété et de la monétisation des données, un contrat portant sur un logiciel propriétaire peut finir par priver le secteur public de tout pouvoir à long terme (voir le [module 3](/content/fr/docs/open_source/modules/module_3/_index.md)).
 
 Les clients -- le secteur public en particulier -- comptent sur les fournisseurs de logiciels pour obtenir un soutien continu. Dans le cas des logiciels propriétaires, les clients n'ont pas de choix. Le code source étant caché, le fournisseur est la seule partie à y avoir accès. Dans le cas des logiciels libres, tout le monde peut contribuer, mais il n'y a pas de fournisseur unique. Les gouvernements doivent disposer de capacités internes, collaborer avec leurs pairs ou faire appel à un prestataire capable d'offrir du soutien.
 
@@ -26,7 +26,9 @@ Il est possible d'entreprendre des projets de logiciels libres sans rôles offic
 
 Idéalement, vous pourrez faire appel aux compétences et à l'expertise de plusieurs intervenants différents lorsque vous vous lancerez dans une initiative de logiciel libre (voir le tableau 2.1). Ces rôles passent au premier plan ou à l'arrière-plan, selon la phase et, une fois de plus, il n'est pas nécessaire que tous ces rôles soient internes ou à temps plein.
 
+<!--markdownlint-disable MD036-->
 **Tableau 2.1 : Rôles associés à chaque phase d'une initiative de logiciel libre, participation par phase**
+<!--markdownlint-enable MD036-->
 
 | Rôle                                                    | Renforcement des capacités | Découverte | Approvisionnement | Intégration | Mise à niveau |
 | :------------------------------------------------------ | :------------------------: | :--------: | :---------------: | :---------: | :-----------: |

@@ -12,7 +12,7 @@ Le paysage politique et législatif appuie de plus en plus l'adoption des logici
 
 De nombreuses politiques fédérales au niveau fédéral qui définissent l'approche du gouvernement du Canada en matière de logiciels libres.
 
-- Le gouvernement du Canada a comme mandat de publier ses propres codes sources sous des licences Open Source tant que cela est compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.[^1]
+- Le gouvernement du Canada a comme mandat de publier ses propres codes sources sous des licences Open Source tant que cela est compatible avec les principes fondamentaux du droit administratif tels que la transparence, la responsabilité, la légalité et l'équité procédurale.[^4]
 
 - En 2018, le gouvernement du Canada a adopté la [Charte internationale sur les données ouvertes](https://opendatacharter.net/principles-fr/) pour démontrer son engagement en ce qui concerne les données ouvertes. La Charte n'est pas un instrument juridiquement contraignant, mais son principe de données « ouvertes par défaut » a permis de jeter bases de l'utilisation et du développement de logiciels libres.
 
@@ -48,7 +48,7 @@ Au Canada, les lois fédérales et provinciales sur la protection des renseignem
 
 La législation promulguée à l'extérieur du Canada peut n'avoir qu'une incidence directe limitée sur les activités du gouvernement en matière de logiciels libres au Canada, mais il est néanmoins très important d'en tenir compte pour comprendre les normes relatives à la façon dont les logiciels sont développés pour les marchés mondiaux et la façon dont les renseignements personnels sont protégés dans les logiciels. Ainsi, le [*Règlement général sur la protection des données (RGPD)*](https://gdpr-info.eu/) de l'Union européenne (UE) impose des responsabilités supplémentaires aux responsables du contrôle et du traitement des données, et ces responsabilités peuvent s'appliquer en dehors de l'UE dans les cas où des données appartenant à des citoyens de l'UE sont visées.
 
-[^1]: Exigences et directives en matière de logiciels libres (ébauche), HTML (2018; repr., gouvernement du  Canada, 14 juin 2022)  https://github.com/canada-ca/open-source-logiciel-libre.
+[^4]: Exigences et directives en matière de logiciels libres (ébauche), HTML (2018; repr., gouvernement du  Canada, 14 juin 2022)  https://github.com/canada-ca/open-source-logiciel-libre.
 
 [^5]: Gouvernement de l’Ontario, Normes des services numériques, consultées le 22 novembre 2022, http://www.ontario.ca/page/digital-service-standard.
 

@@ -11,7 +11,7 @@ There is a growing policy and legislative landscape addressing the use of softwa
 
 There are numerous policies at the federal level that set out the Government of Canada's approach to open source software.
 
-- The Government of Canada is "mandated to release its own source codes under Open Source Licenses as long as it is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness."[^1]
+- The Government of Canada is "mandated to release its own source codes under Open Source Licenses as long as it is compatible with core administrative law principles such as transparency, accountability, legality and procedural fairness."[^4]
 
 - In 2018, the Government of Canada adopted the [Open Data Charter](https://opendatacharter.net/principles/) as a demonstration of its commitment to open data. While it is not a legally binding instrument, the Charter and its "open by default" principle lay the groundwork for the use and development of open source software.
 
@@ -47,7 +47,7 @@ In Canada, privacy legislation at the federal and provincial levels may impact h
 
 Legislation enacted outside Canada may only have limited direct impact on the government open source activities in Canada, but it is nonetheless very important to consider in terms of understanding norms around how software is developed for global markets and how personal information is protected within software. For example, the European Union's (EU) [General Data Protection Regulation*](https://gdpr-info.eu/) (GDPR) imposes additional responsibilities on data controllers and data processors -- these responsibilities may apply outside the EU in cases where data belonging to EU citizens is involved.
 
-[^1]: “Open Source Software Requirements and Guidance (Draft),” HTML (2018; repr., Government of Canada, June 14, 2022), https://github.com/canada-ca/open-source-logiciel-libre.
+[^4]: “Open Source Software Requirements and Guidance (Draft),” HTML (2018; repr., Government of Canada, June 14, 2022), https://github.com/canada-ca/open-source-logiciel-libre.
 
 [^5]: Government of Ontario, “Digital Service Standard, 2021,” ontario.ca, accessed November 22, 2022, http://www.ontario.ca/page/digital-service-standard.
 
