@@ -9,6 +9,6 @@ You can find the source files and contribute to the projects there.
 
 Current projects include:
 
-- [Open Source Software in Government: A Course for Public Sector Executives](/docs/learning_material/)
+- [Open Source Software in Government: A Course for Public Sector Executives](/docs/open_source/)
 
 Other projects may be included in the future.
