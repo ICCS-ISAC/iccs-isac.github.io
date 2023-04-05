@@ -42,17 +42,9 @@ Open source software works in a fundamentally different way than proprietary sof
   - There are several models of open source software development, each of which has slightly different approaches to how merges with the main codebase are managed and how frequently they happen. For the most part, these models follow a branching structure, in which the main codebase functions as a ‘trunk’ with ‘branches’ created as individuals or organizations create copies – or ‘forks’ – and add their own features (see Figure 1.2). In this way, open source software is continually improving through contributions from an open community.
   - Some open source software has a governance structure in place to review and validate any changes to the source code. This ensures the utility and integrity of contributions. Validated changes are integrated back into the main trunk of the tree.
 
-```figure
-INSERT FIGURE 1.1 HERE
-```
+{{< figure src=../fig1_1.png caption="**Figure 1.1 :** This diagram shows in a simplified way how a distributed version control system works. A main server repository stores all of the files associated with an open source project. Each organization collaborating on the project maintains a local repository which is a copy of the main repository. Every programmer maintains a working copy of their respective local repository (which in turn is a copy of the main repository) on their hard drive. Programmers can commit changes to and update their local repository without any interference. They can update their local repositories with new data from the main server repository by an operation called \"pull\" and make changes to the main repository by an operation called \"push\" from their local repository." >}}
 
-**Figure 1.1**: This diagram shows in a simplified way how a distributed version control system works. A main server repository stores all of the files associated with an open source project. Each organization collaborating on the project maintains a local repository which is a copy of the main repository. Every programmer maintains a working copy of their respective local repository (which in turn is a copy of the main repository) on their hard drive. Programmers can commit changes to and update their local repository without any interference. They can update their local repositories with new data from the main server repository by an operation called “pull” and make changes to the main repository by an operation called “push” from their local repository.
-
-```figure
-INSERT FIGURE 1.2 HERE
-```
-
-**Figure 1.2**: A simple branching development model for open source software. The main trunk represents the ‘original’ source code. Any individual or organization can create a copy – or ‘fork’ – and add their own features. “Hotfix” branches are used to quickly patch production releases.
+{{< figure src=../fig1_2.png caption="**Figure 1.2:** A simple branching development model for open source software. The main trunk represents the ‘original’ source code. Any individual or organization can create a copy – or ‘fork’ – and add their own features. “Hotfix” branches are used to quickly patch production releases." >}}
 
 - Distribution: An open source license grants anyone the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose (often with attribution).
   - Regardless of how software is developed, it can be released under an open source license. The challenges and opportunities of open source software are more specific and unique once it has been released under an open source license, entering the maintenance and adaptation phase.

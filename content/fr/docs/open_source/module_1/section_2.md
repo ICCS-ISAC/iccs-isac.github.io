@@ -54,21 +54,9 @@ Les logiciels libres fonctionnent d'une manière fondamentalement différente de
 
   - Certains logiciels libres disposent d'une structure de gouvernance pour l'examen et la validation de toute modification du code source. Cela garantit l'utilité et l'intégrité des contributions. Les modifications validées sont réintégrées dans le tronc principal de l'arbre.
 
-![This diagram shows in a simplified way how a distributed version control system works. A main server repository stores all of the files associated with an open source project. Each organization collaborating on the project maintains a local repository which is a copy of the main repository. Every programmer maintains a working copy of their respective local repository (which in turn is a copy of the main repository) on their hard drive. Programmers can commit changes to and update their local repository without any interference. They can update their local repositories with new data from the main server repository by an operation called "pull" and make changes to the main repository by an operation called "push" from their local repository.](media/image3.png){width="6.5in" height="7.479166666666667in"}
+{{< figure src=../fig1_1.png caption="**Figure 1.1 :** Ce diagramme montre de manière simplifiée comment fonctionne un système de contrôle de la version distribuée. Le dépôt d’un serveur principal stocke tous les fichiers associés à un projet de code source. Chaque organisation collaborant au projet maintient un référentiel local qui est une copie du référentiel principal. Chaque programmeur conserve une copie de travail de son référentiel local respectif (qui est lui-même une copie du référentiel principal) sur son disque dur. Les programmeurs peuvent apporter des modifications et mettre à jour leur référentiel local sans aucune interférence. Ils peuvent mettre à jour leurs référentiels locaux avec de nouvelles données provenant du référentiel du serveur principal par une opération appelée « pull » (extraction) et apporter des modifications au référentiel principal par une opération appelée « push » (insertion), à partir de leur référentiel local." >}}
 
-```figure
-INSERT FIGURE 1.1 HERE
-```
-
-**Figure 1.1 :** Ce diagramme montre de manière simplifiée comment fonctionne un système de contrôle de la version distribuée. Le dépôt d'un serveur principal stocke tous les fichiers associés à un projet de code source. Chaque organisation collaborant au projet maintient un référentiel local qui est une copie du référentiel principal. Chaque programmeur conserve une copie de travail de son référentiel local respectif (qui est lui-même une copie du référentiel principal) sur son disque dur. Les programmeurs peuvent apporter des modifications et mettre à jour leur référentiel local sans aucune interférence. Ils peuvent mettre à jour leurs référentiels locaux avec de nouvelles données provenant du référentiel du serveur principal par une opération appelée « pull » (extraction) et apporter des modifications au référentiel principal par une opération appelée « push » (insertion), à partir de leur référentiel local.
-
-![](media/image4.png){width="6.489583333333333in" height="2.2291666666666665in"}
-
-```figure
-INSERT FIGURE 1.2 HERE
-```
-
-**Figure 1.2**: Un modèle de développement simple et ramifié pour les logiciels libres. Le tronc principal représente le code source « original ». Toute personne ou organisation peut créer une copie -- ou « bifurcation » - et ajouter ses propres fonctionnalités. Les branches « Hotfix » sont utilisées pour corriger rapidement les versions de production.
+{{< figure src=../fig1_2.png caption="**Figure 1.2**: Un modèle de développement simple et ramifié pour les logiciels libres. Le tronc principal représente le code source « original ». Toute personne ou organisation peut créer une copie -- ou « bifurcation » - et ajouter ses propres fonctionnalités. Les branches « Hotfix » sont utilisées pour corriger rapidement les versions de production." >}}
 
 - **Distribution :** Une licence de logiciel libre accorde à quiconque le droit d'utiliser, d'étudier, de modifier et de distribuer le logiciel et son code source à quiconque et dans n'importe quel but (souvent avec attribution).
 
