@@ -75,11 +75,11 @@ Consider using the Standard for Public Code, "a set of criteria that supports pu
 
 [^83]: Foundation for Public Code, “Governance Game,” accessed November 3, 2022, https://about.publiccode.net/activities/supporting-codebase-governance/game/.
 
-[^84]: Miller, Ben. “How Government Is Reforming IT Procurement and What it Means for Vendors,” GovTech, April 6, 2017. https://www.govtech.com/biz/how-government-is-reforming-it-procurement-and-what-it-means-for-vendors.html 
+[^84]: Miller, Ben. “How Government Is Reforming IT Procurement and What it Means for Vendors,” GovTech, April 6, 2017. https://www.govtech.com/biz/how-government-is-reforming-it-procurement-and-what-it-means-for-vendors.html
 
-[^85]: Center for Global Development, “Better Together: Exploring the Role of Pooled Procurement in Improving Access to Medicines amid COVID-19,” https://www.cgdev.org/blog/better-together-exploring-role-pooled-procurement-improving-access-medicines-amid-covid-19 
+[^85]: Center for Global Development, “Better Together: Exploring the Role of Pooled Procurement in Improving Access to Medicines amid COVID-19,” https://www.cgdev.org/blog/better-together-exploring-role-pooled-procurement-improving-access-medicines-amid-covid-19
 
-[^86]: CoProcure, “What is Cooperative Procurement?” https://www.coprocure.us/blog/cooperative-contracts-joint-solicitation-vs-piggybacking/ 
+[^86]: CoProcure, “What is Cooperative Procurement?” https://www.coprocure.us/blog/cooperative-contracts-joint-solicitation-vs-piggybacking/
 
 [^87]: National Association of State Procurement Officials (NASPO), “Strength in Numbers:  An Introduction to Cooperative Procurements,” https://naspovaluepoint.org/wp-content/uploads/2020/08/Cooperative_Purchasing0410update.pdf  
 

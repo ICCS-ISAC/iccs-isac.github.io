@@ -69,7 +69,7 @@ There are numerous legal considerations when selecting a license for your organi
 
 [^76]: Treasury Board of Canada Secretariat, “Guide for Using Open Source Software,” July 28, 2020, https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html.
 
-[^77]: Guide for Publishing Open Source Software. https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html 
+[^77]: Guide for Publishing Open Source Software. https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-publishing-open-source-code.html
 
 [^78]: Ben Balter, “Everything a Government Attorney Needs to Know about Open Source Software Licensing,” Ben Balter (blog), October 8, 2014, https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/; GitHub, “Choose an Open Source License,” Choose a License, accessed September 6, 2022, https://choosealicense.com/; GitHub, “The Legal Side of Open Source,” Open Source Guides, October 17, 2022, https://opensource.guide/legal/.
 
