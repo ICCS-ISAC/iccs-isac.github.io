@@ -1,6 +1,7 @@
 ---
 title: "Appendix A: Executive One-Pagers"
 weight: 100
+bookCollapseSection: true
 ---
 
 # {{< param title >}}

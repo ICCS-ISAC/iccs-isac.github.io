@@ -2,6 +2,7 @@
 title: "Annexe A: Documents d’une page à l’intention de la haute direction"
 url: "docs/logiciels-libres/annexe_a/"
 weight: 100
+bookCollapseSection: true
 ---
 
 # {{< param title >}}
