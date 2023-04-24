@@ -7,6 +7,7 @@ url: "docs/logiciels-libres/module_4/"
 # {{< param title >}}
 
 ## Objectifs d'apprentissage
+
 Ce module vous permettra de vous familiariser avec :
 
 - Les considérations liées à la sécurité et à la mise à niveau associées aux logiciels propriétaires conventionnels et aux logiciels libres.

@@ -55,3 +55,27 @@ Une défaillance de dépendance peut se produire lorsqu'une bibliothèque de cod
 - Selon un blogueur, le problème plus vaste illustré par cet échec de dépendance est que tant de paquets et de projets ont pris une dépendance pour une simple fonction de chaîne de remplissage gauche, plutôt que leurs développeurs prennent deux minutes pour écrire eux-mêmes une fonction aussi basique.[^66]
 
 En bref, plus les dépendances d'un logiciel échappent à votre contrôle, plus le risque de sécurité est élevé et plus les chances que quelque chose se brise augmentent. La première étape vers la gestion des dépendances et l'atténuation des incidences en aval sur la sécurité et la mise à niveau de votre logiciel libre est simplement d'en être conscient. À cette fin, de nombreux développeurs de logiciels incluent désormais une nomenclature logicielle (SBOM) qui répertorie tous les composants logiciels et tiers présents dans un code base.[^67]
+
+[^56]: Centre canadien pour la cybersécurité, Considérations liées à la sécurité dans le cadre de l’utilisation de logiciels libres (ITSAP.10.059), le 9 juillet 2020. (https://www.cyber.gc.ca/fr/orientation/considerations-liees-la-securite-dans-le-cadre-de-lutilisation-de-logiciels-libres)
+
+[^57]: Ibid.
+
+[^58]: Ibid.
+
+[^59]: Ibid.
+
+[^60]: Eric Brewer et al., Know, Prevent, Fix : A Framework for Shifting the Discussion around Vulnerabilities in Open Source, Google Open Source Blog (blog), le 3 février 2021. (https://opensource.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting-discussion-around-vulnerabilities-in-open-source.html)
+
+[^61]: Jim Boehm et al, The Risk-Based Approach to Cybersecurity, McKinsey & Company, le 8 octobre 2019. (https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-risk-based-approach-to-cybersecurity)
+
+[^62]: Zeljka Zorz, The Percentage of Open Source Code in Proprietary Apps Is Rising, Help Net Security (blog), le 22 mai 2018. (https://www.helpnetsecurity.com/2018/05/22/open-source-code-security-risk/)
+
+[^63]: Oskar Barcz, What is Dependency Hell and How to Avoid It?, le 26 novembre 2021. (https://www.boldare.com/blog/software-dependency-hell-what-is-it-and-how-to-avoid-it)
+
+[^64]: L’objectif du coussinet gauche est très simple : il « remplit » le côté gauche d’une chaîne (valeurs entières ou caractères) en ajoutant des zéros ou des espaces pour atteindre la longueur de chaîne souhaitée. (https://www.npmjs.com/package/left-pad)
+
+[^65]: Keith Collins, How One Programmer Broke the Internet by Deleting a Tiny Piece of Code, Quartz, le 27 mars 2016. (https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)
+
+[^66]: David Haney, NPM & Left-Pad : Have We Forgotten How To Program?, consultation le 29 août 2022. (https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/)
+
+[^67]: United States Cybersecurity & Infrastructure Security Agency, Software Bill of Materials, consultation le 13 novembre 2022. (https://www.cisa.gov/sbom)

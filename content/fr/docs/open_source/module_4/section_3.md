@@ -35,3 +35,17 @@ La mise à niveau et la sécurisation de tout type de logiciel, qu'il s'agisse d
 Toutefois, si votre organisation crée une instance locale indépendante (en bifurquant le code), les mises à jour et les rustines de sécurité relèvent de votre propre responsabilité -- et elles deviennent de plus en plus difficiles, car votre version s'éloigne de la version initiale au fil du temps. En bref : pas de bifurcation si vous n'êtes pas en mesure d'assurer la mise à niveau.
 
 Le Guide pour l'utilisation de logiciels libres du gouvernement du Canada recommande ce qui suit : « Dans la mesure du possible, utiliser des logiciels libres sans modification ou les contribuer au projet » et « Utiliser la configuration et personnaliser le logiciel avec des modules, des plugiciels ou des extensions et rendre ceux-ci disponibles à la collectivité ».[^74]
+
+[^68]: New America, Section Two : Building Open Source Software, Building and Reusing Open Source Tools for Government, consultation le 4 juillet 2022. (newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/)
+
+[^69]:   Secrétariat du Conseil du Trésor du Canada, Guide pour la publication du code source libre. (https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-la-publication-du-code-source-libre.html)
+
+[^70]: Ann Cavoukian et Mark Dixon, Privacy and Security by Design : An Enterprise Architecture Approach (Commissaire à l’information et à la protection de la vie privée de l’Ontario, 2013). (https://www.ipc.on.ca/wp-content/uploads/Resources/pbd-privacy-and-security-by-design-oracle.pdf)
+
+[^71]: Nicole Olsen, Open Source Projects and the GDPR, Privacy Policies, consultation le 2 septembre 2022. (https://www.privacypolicies.com/blog/gdpr-open-source-projects/)
+
+[^72]: Secrétariat du Conseil du Trésor du Canada, Guide pour la publication du code source libre, le 28 juillet 2020, Guide pour la publication du code source libre. (https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/open-source-software/guide-for-using-open-source-software.html)
+
+[^73]: Open Source Security Foundation et The Linux Foundation, Home, OpenSSF Scorecard, consultation le 14 novembre 2022. (https://securityscorecards.dev/)
+
+[^74]: Secrétariat du Conseil du Trésor du Canada, Guide pour l’utilisation de logiciels libres. (https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/logiciels-libres/guide-pour-lutilisation-de-logiciels-libres.html)
