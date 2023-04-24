@@ -2,6 +2,7 @@
 title: "Module 5 : Collaboration en ce qui concerne les logiciels libres"
 bookCollapseSection: true
 url: "docs/logiciels-libres/module_5/"
+weight: 7
 ---
 
 # {{< param title >}}
