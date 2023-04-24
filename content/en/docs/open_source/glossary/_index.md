@@ -1,0 +1,6 @@
+---
+title: "Glossary"
+---
+
+# {{< param title >}}
+
