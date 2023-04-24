@@ -8,7 +8,7 @@ url: "docs/logiciels-libres/module_5/section_2/"
 
 Malgré les défis potentiels, il est possible pour différentes administrations de collaborer de façon productive en ce qui concerne les logiciels libres.
 
-### Construire intentionnellement une structure de gouvernance
+## Construire intentionnellement une structure de gouvernance
 
 Les collaborations qui démarrent sans une structure de gouvernance claire risquent de connaître des difficultés, en particulier s'il y a un trop grand nombre de partenaires. Il peut alors être difficile de s'entendre sur le modèle de collaboration suivi et de déterminer les rôles appropriés pour chaque partenaire.[^80]
 
@@ -16,11 +16,11 @@ Lorsque vous envisagez une collaboration, prenez le temps de vous harmoniser ave
 
 Une fois ce premier contact établi, les partenaires peuvent entrer dans les détails, comme la planification et la documentation de la structure de gouvernance proposée, les principes de travail en commun et l'harmonisation avec la manière de financer leur travail commun.[^82] Une façon d'aborder ces conversations est d'utiliser un outil comme le *Governance Game* mis au point par la Foundation for Public Code, un jeu interactif sur la gouvernance d'un code public. Ce jeu aide les participants à réfléchir à ce que signifie la gouvernance pour un code base, ainsi qu'à la complexité de la gouvernance, et met en évidence les aspects à prendre en compte lors de la mise en place.[^83]
 
-### Créer des communautés de pratique en ce qui concerne les logiciels libres
+## Créer des communautés de pratique en ce qui concerne les logiciels libres
 
 Les champions du logiciel libre au sein des organismes gouvernementaux peuvent former des communautés de pratique en ce qui concerne les logiciels libres. L'exploitation de réseaux préexistants de groupes de pairs composés de fonctionnaires responsables de programmes ou de services similaires peut constituer une façon efficace de développer et de partager des logiciels libres pour certains domaines d'intérêt ou cas d'utilisation (par exemple, la planification des transports, la gestion des actifs). Les communautés de pratique axées sur les logiciels libres de façon générale peuvent être utiles pour échanger des connaissances sur les logiciels libres à un niveau organisationnel. Les communautés de pratique peuvent gérer des référentiels partagés de modules et de ressources de logiciels libres.
 
-### Créer un accord d'achat groupé ou participer à un tel accord
+## Créer un accord d'achat groupé ou participer à un tel accord
 
 Il n'est pas toujours possible de se procurer ou de développer des logiciels libres par ses propres moyens, surtout dans le cas des petites et moyennes municipalités. Avec les achats groupés (également connus sous le nom d'achats coopératifs), vous partagez le coût avec d'autres.[^84] Les achats groupés augmentent l'efficacité d'un processus d'approvisionnement et réduisent les coûts pour les organisations participantes. Les avantages des achats groupés pour le secteur gouvernemental sont les suivants :
 
@@ -62,7 +62,7 @@ Il existe deux approches principales pour les achats groupés, soit la sollicita
 
 Le jumelage est une approche plus ponctuelle. Aux États-Unis, il existe des outils tels que [CoProcure](https://www.coprocure.us/) qui peuvent vous aider à trouver des produits et des sollicitations géographiquement et topiquement pertinents. Toutefois, il n'existe pas de « guichet unique » pour les possibilités d'achats coopératifs au Canada; les occasions de profiter des contrats d'autres organisations se présenteront probablement par l'entremise de vos liens avec les réseaux de pairs existants.
 
-### Documenter correctement les projets de logiciels libres
+## Documenter correctement les projets de logiciels libres
 
 Vous pouvez investir beaucoup de temps et d'efforts dans le développement d'un logiciel libre, mais si personne d'autre ne peut comprendre ce qu'est le logiciel et ce qu'il fait, à un niveau élevé, et comment les modules fonctionnent, à un niveau technique, les chances qu'il soit adopté par d'autres que votre équipe sont faibles. Pour faciliter l'adoption par d'autres des logiciels libres que vous développez, il est essentiel de prendre le temps de les documenter correctement.
 
