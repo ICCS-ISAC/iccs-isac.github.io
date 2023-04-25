@@ -6,7 +6,7 @@ url: "docs/logiciels-libres/module_4/section_2/"
 
 # {{< param title >}}
 
-### Risques sur le plan de la sécurité
+## Risques sur le plan de la sécurité
 
 Plusieurs aspects des logiciels libres peuvent les rendre vulnérables aux risques de sécurité :
 
@@ -16,13 +16,13 @@ Plusieurs aspects des logiciels libres peuvent les rendre vulnérables aux risqu
 
 - **Manque de soutien :** Les logiciels libres pris en charge par une grande collectivité active d'utilisateurs et de développeurs sont plus susceptibles de recevoir régulièrement des mises à jour et des rustines de sécurité. Toutefois, si vous utilisez un logiciel libre qui n'est pas largement appuyé par une collectivité d'utilisateurs, vous devrez compenser en vous assurant que vous disposez des capacités internes appropriées (ou que vous pouvez faire appel à une assistance externe) pour surveiller les vulnérabilités de sécurité.
 
-### Les limites du modèle de soutien de la collectivité du logiciel libre
+## Les limites du modèle de soutien de la collectivité du logiciel libre
 
 La plupart des collectivités de logiciels libres actives mettent régulièrement à jour les logiciels et publient des rustines pour les vulnérabilités connues. Cependant, des problèmes peuvent survenir si personne ne met à jour le logiciel, soit parce que le logiciel est trop nouveau ou trop beau pour attirer une collectivité de développeurs suffisamment importante, soit parce que la collectivité existante n'a pas maintenu un projet de logiciel libre.
 
 Une attaque de cybersécurité qui se traduit par une fuite de données contenant des données sensibles peut avoir une incidence très négative sur la confiance au sein d'une organisation gouvernementale. En pareil cas, il se pourrait que le fait d'attendre que des mises à jour et des rustines de sécurité soient développées par la collectivité de logiciels libres ne soit pas une option. Les organisations gouvernementales doivent plutôt être en mesure d'évaluer et de résoudre rapidement le problème et, pour ce faire, elles doivent disposer d'une certaine expertise interne en ce qui concerne les modules ou logiciels libres utilisés par l'organisation.[^58]
 
-### Approches conventionnelles en matière de gestion des risques
+## Approches conventionnelles en matière de gestion des risques
 
 La quasi-totalité, sinon la totalité des organisations gouvernementales ont déjà mis en place un cadre de sécurité informatique. Une politique de sécurité informatique organisationnelle établit les objectifs généraux d'une organisation en matière de sécurité. Elle décrit de quelle façon les employés travaillent et collaborent sur les réseaux de l'organisation tout en respectant la position de l'organisation en matière de gestion des risques liés à la sécurité.
 
@@ -32,7 +32,7 @@ Il est plus que probable que votre organisation ait adopté une approche en mati
 
 Le problème avec les logiciels propriétaires conventionnels est qu'il peut être difficile d'identifier les risques dès le départ, car ils peuvent être cachés derrière le discours commercial du fournisseur et les petits caractères du contrat de licence.
 
-### Gestion des risques liés aux logiciels libres
+## Gestion des risques liés aux logiciels libres
 
 La gestion des risques liés aux logiciels libres peut être abordée de manière similaire. Un cadre récemment publié par Google identifie trois domaines problématiques largement indépendants avec un objectif concret : connaître les vulnérabilités de votre logiciel libre, empêcher l'ajout de nouvelles vulnérabilités et corriger (ou supprimer) les vulnérabilités.[^60]
 
@@ -42,7 +42,7 @@ Pour connaître vos vulnérabilités, votre équipe doit être en mesure de sais
 
 En fait, les vulnérabilités des logiciels libres doivent être abordées comme un prolongement des objectifs généraux en matière de sécurité informatique et des processus de rapports d'une organisation plutôt que comme une tâche entièrement nouvelle. N'oubliez pas que la compréhension de vos risques contribuera à créer une culture consciente des risques au sein de l'organisation, tout en examinant comment les risques technologiques -- y compris les risques liés aux logiciels libres -- s'harmonisent avec les objectifs opérationnels.
 
-### Dépendances logicielles : Un défi pour la sécurité et la mise à niveau
+## Dépendances logicielles : Un défi pour la sécurité et la mise à niveau
 
 Tous les logiciels sont construits à partir d'autres logiciels, d'une façon ou d'une autre. Les développeurs peuvent créer de nouvelles applications beaucoup plus rapidement en pointant vers un code qui a déjà été créé par un tiers que s'ils devaient créer un nouveau code à partir de rien. En fait, une enquête menée en 2017 a révélé que, sur plus de 1 100 bases de code commerciales, 96 % des applications numérisées contenaient des composants de logiciels libres, avec une moyenne de 257 composants par application. »[^62]
 

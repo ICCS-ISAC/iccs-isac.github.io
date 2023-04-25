@@ -71,8 +71,11 @@ Les logiciels libres fonctionnent d'une manière fondamentalement différente de
 Le mouvement des logiciels libres a été inspiré par la possibilité de rassembler une collectivité mondiale pour créer, développer et adapter des logiciels librement et en collaboration.
 
 - Les logiciels « libres » ne sont pas des logiciels « gratuits ». En anglais, le mot « free » peut signifier « gratuit » et/ou « assorti de peu ou pas de restriction » (libre).
+
 - Dans les années 1990, les concepteurs de logiciels ont commencé à offrir leurs logiciels gratuitement parce que le coût marginal de chaque unité était nul. Dans un tel contexte, le logiciel est offert gratuitement, mais le concepteur conserve les droits afférents au logiciel.
+
 - Le mouvement des logiciels libres est apparu peu après. Ce mouvement a été important parce qu’il misait sur la possibilité d’accès au code et de modification de celui-ci, et pas simplement sur la gratuité de l’utilisation des logiciels.[^1] Les logiciels seraient libres, de sorte que d’autres concepteurs pourraient non seulement les utiliser, mais également les modifier et les améliorer.
+
 - Dans un essai emblématique, l’un des pères du mouvement des logiciels libres, Lawrence Lessig, a lancé l’expression « pensez à la liberté d’expression par opposition à la bière gratuite » [^2]: les logiciels gratuits sont comme la bière gratuite, alors tandis que les logiciels libres se comparent à la liberté d’expression (accès et reproduction sans restriction).
 
 [^1]: Eric S. Raymond, “The Cathedral and the Bazaar,” Knowledge, Technology & Policy 12, no. 3 (September 1999): 23–49, https://doi.org/10.1007/s12130-999-1026-0.
