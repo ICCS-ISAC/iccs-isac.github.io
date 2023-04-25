@@ -9,6 +9,6 @@ Vous pouvez y trouver les fichiers sources et contribuer aux projets.
 
 Les projets actuels sont les suivants :
 
-- [Les logiciels libres dans le secteur public : Cours destiné aux cadres du secteur public](/fr/docs/logiciels-libres/)
+- [Les logiciels libres dans le secteur public : Cours destiné aux cadres du secteur public](/fr/docs/logiciels_libres/)
 
 D'autres projets pourraient être inclus à l'avenir.

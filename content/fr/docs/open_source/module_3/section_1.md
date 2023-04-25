@@ -1,7 +1,7 @@
 ---
 title: "Section 1: Modèles d'octroi de licences de logiciels, de revenus et de développement"
 weight: 1
-url: "docs/logiciels-libres/module_3/section_1/"
+url: "docs/logiciels_libres/module_3/section_1/"
 ---
 
 # {{< param title >}}

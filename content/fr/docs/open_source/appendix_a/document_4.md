@@ -1,6 +1,6 @@
 ---
 title: "Document no 4 : Sécurité et mise à niveau des logiciels libres"
-url: "docs/logiciels-libres/annexe_a/document_4/"
+url: "docs/logiciels_libres/annexe_a/document_4/"
 weight: 4
 ---
 

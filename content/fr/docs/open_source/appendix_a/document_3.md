@@ -1,6 +1,6 @@
 ---
 title: "Document no 3 : Approvisionnement, budgétisation et passation de marchés"
-url: "docs/logiciels-libres/document_3/"
+url: "docs/logiciels_libres/annexe_a/document_3/"
 weight: 3
 ---
 

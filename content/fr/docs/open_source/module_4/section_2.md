@@ -1,7 +1,7 @@
 ---
 title: "Section 2 : Enjeux et concepts clés en matière d'approvisionnement"
 weight: 2
-url: "docs/logiciels-libres/module_4/section_2/"
+url: "docs/logiciels_libres/module_4/section_2/"
 ---
 
 # {{< param title >}}

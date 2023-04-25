@@ -1,6 +1,6 @@
 ---
 title: "Document no 1 : Pourquoi un logiciel libre?"
-url: "docs/logiciels-libres/annexe_a/document_1/"
+url: "docs/logiciels_libres/annexe_a/document_1/"
 weight: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Section 2 : Enjeux et concepts clés pour la création d'un écosystème du logiciel libre"
-url: "docs/logiciels-libres/module_2/section_2/"
+url: "docs/logiciels_libres/module_2/section_2/"
 weight: 2
 ---
 

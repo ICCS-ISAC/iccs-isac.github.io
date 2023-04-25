@@ -1,7 +1,7 @@
 ---
 title: "Section 2 : Enjeux et concepts clés en matière d'approvisionnement"
 weight: 2
-url: "docs/logiciels-libres/module_3/section_2/"
+url: "docs/logiciels_libres/module_3/section_2/"
 ---
 
 # {{< param title >}}
@@ -44,7 +44,7 @@ En 2022, Services partagés Canada (SSC) a lancé le processus d’approvisionne
 
 L'approvisionnement relève généralement d'un responsable de l'approvisionnement et repose sur un budget détaillé et des spécifications fonctionnelles. Ces spécifications proviennent souvent de sources diverses, comme un spécialiste en informatique et un cadre supérieur chargé des directives politiques. Les spécifications peuvent être contradictoires ou manquer de clarté. De façon plus générale, un flux d'information à sens unique (des spécialistes aux responsables de l'approvisionnement, puis aux fournisseurs) compromet les possibilités d'élaboration de solutions créatives.
 
-Dans le cadre d'un processus d'approvisionnement numérique, il existe une figure centrale chargée d'assurer la participation de toutes les unités opérationnelles et de faire progresser l'ensemble du processus d'approvisionnement : le responsable du produit. Cette personne n'est pas nécessairement un expert technique, mais elle doit avoir une connaissance pratique des processus de développement de logiciels, de l'approvisionnement et des méthodes de conception centrées sur l'utilisateur (voir le [module 2](/fr/docs/logiciels-libres/module_2/) pour obtenir de plus amples détails).
+Dans le cadre d'un processus d'approvisionnement numérique, il existe une figure centrale chargée d'assurer la participation de toutes les unités opérationnelles et de faire progresser l'ensemble du processus d'approvisionnement : le responsable du produit. Cette personne n'est pas nécessairement un expert technique, mais elle doit avoir une connaissance pratique des processus de développement de logiciels, de l'approvisionnement et des méthodes de conception centrées sur l'utilisateur (voir le [module 2](/fr/docs/logiciels_libres/module_2/) pour obtenir de plus amples détails).
 
 ## Découverte : Établir une base solide grâce à la compréhension du problème
 

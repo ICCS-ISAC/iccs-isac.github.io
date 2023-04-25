@@ -1,7 +1,7 @@
 ---
 title: "Avant-propos"
 date: 2023-01-01T00:00:00+01:00
-url: "docs/logiciels-libres/avant-propos"
+url: "docs/logiciels_libres/avant-propos"
 weight: 1
 ---
 

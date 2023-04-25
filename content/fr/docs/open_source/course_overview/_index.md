@@ -1,6 +1,6 @@
 ---
 title: Aperçu du cours
-url: "docs/logiciels-libres/apercu-du-cours/"
+url: "docs/logiciels_libres/apercu-du-cours/"
 weight: 2
 ---
 

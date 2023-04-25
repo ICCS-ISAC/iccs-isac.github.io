@@ -1,7 +1,7 @@
 ---
 title: "Section 1: Collaboration entre administrations"
 weight: 1
-url: "docs/logiciels-libres/module_5/section_1/"
+url: "docs/logiciels_libres/module_5/section_1/"
 ---
 
 # {{< param title >}}

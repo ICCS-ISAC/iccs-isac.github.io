@@ -1,7 +1,7 @@
 ---
 title: "Module 2 : Création d'un écosystème du logiciel libre"
 bookCollapseSection: true
-url: "docs/logiciels-libres/module_2/"
+url: "docs/logiciels_libres/module_2/"
 weight: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Document no 5 : Collaboration en ce qui concerne les logiciels libres"
-url: "docs/logiciels-libres/annexe_a/document_5/"
+url: "docs/logiciels_libres/annexe_a/document_5/"
 weight: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 2 : Stratégies de collaboration en ce qui concerne les logiciels libres"
 weight: 2
-url: "docs/logiciels-libres/module_5/section_2/"
+url: "docs/logiciels_libres/module_5/section_2/"
 ---
 
 # {{< param title >}}

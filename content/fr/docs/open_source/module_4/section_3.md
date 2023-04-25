@@ -1,7 +1,7 @@
 ---
 title: "Section 3 : Stratégies pour la mise à niveau et la sécurisation des logiciels libres"
 weight: 3
-url: "docs/logiciels-libres/module_4/section_3/"
+url: "docs/logiciels_libres/module_4/section_3/"
 ---
 
 # {{< param title >}}

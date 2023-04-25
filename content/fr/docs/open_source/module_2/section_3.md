@@ -1,6 +1,6 @@
 ---
 title: "Section 3 : Stratégies pour la création d'un écosystème du logiciel libre"
-url: "docs/logiciels-libres/module_2/section_3/"
+url: "docs/logiciels_libres/module_2/section_3/"
 weight: 3
 ---
 

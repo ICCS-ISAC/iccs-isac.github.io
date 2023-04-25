@@ -1,7 +1,7 @@
 ---
 title: "Section 3 : Budgétisation et passation de marchés"
 weight: 3
-url: "docs/logiciels-libres/module_3/section_3/"
+url: "docs/logiciels_libres/module_3/section_3/"
 ---
 
 # {{< param title >}}

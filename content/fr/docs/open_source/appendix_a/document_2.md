@@ -1,6 +1,6 @@
 ---
 title: "Document no 2 : Création d’un écosystème du logiciel libre"
-url: "docs/logiciels-libres/annexe_a/document_2/"
+url: "docs/logiciels_libres/annexe_a/document_2/"
 weight: 2
 ---
 

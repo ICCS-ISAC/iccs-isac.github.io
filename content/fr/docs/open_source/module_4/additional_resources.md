@@ -1,7 +1,7 @@
 ---
 title: "Ressources supplémentaires"
 weight: 4
-url: "docs/logiciels-libres/module_4/ressources-supplementaires/"
+url: "docs/logiciels_libres/module_4/ressources-supplementaires/"
 ---
 
 # {{< param title >}}

@@ -1,7 +1,7 @@
 ---
 title: "Section 3 : Avantages et défis en ce qui concerne l'utilisation de logiciels libres dans le secteur public"
 weight: 3
-url: "docs/logiciels-libres/module_1/section_3"
+url: "docs/logiciels_libres/module_1/section_3"
 ---
 
 # {{< param title >}}
