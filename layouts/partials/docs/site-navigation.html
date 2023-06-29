@@ -1,0 +1,19 @@
+{{- $pages := .Site.Pages -}}
+{{- $sections := slice -}}
+{{- $navData := slice -}}
+{{- range $index, $page := $pages -}}
+  {{- if $page.IsSection -}}
+    {{- $sections = $sections | append $page -}}
+  {{- end -}}
+{{- end -}}
+{{- range $index, $section := $sections -}}
+    {{- $navData = $navData | append (dict "Page" $section "Link" $section.RelPermalink) -}}
+    {{- $sectionPages := $section.Pages -}}
+        {{- range $index, $page := $sectionPages -}}
+            {{ if and $page.Page.IsPage $page.Page.Content -}}
+            {{/*  {{ if ne $page.Page.IsSection true -}}  */}}
+                {{- $navData = $navData | append (dict "Page" $page "Link" $page.RelPermalink) -}}
+            {{ end }}
+        {{- end -}}
+    {{- end -}}
+{{- .Scratch.Set "siteNavData" $navData -}}
