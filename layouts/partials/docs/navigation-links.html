@@ -1,0 +1,35 @@
+{{ $sitePages := .SiteNavigation}}
+{{ $thisPage := .CurrentPage }}
+{{ $pagesLength := len .SiteNavigation }}
+{{ $currentPageIndex := 0 }}
+{{ $prevLinkIndex := 0 }}
+{{ $nextLinkIndex := $pagesLength }}
+
+{{ range $index, $page := $sitePages }}
+  {{ $current := eq $thisPage $page.Page }}
+  {{ if eq $current true}}
+    {{ $currentPageIndex = $index }}
+    {{if gt $index 0 }}
+      {{ $prevLinkIndex = sub $index 1 }}
+    {{ end }}
+    {{if lt $index $pagesLength }}
+      {{ $nextLinkIndex = add $index 1 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if ne .CurrentPage.Params.disablenavlinks true }}
+<ul style="list-style-type:none; padding:0; display:flex; justify-content:space-between;border-top: 1px solid #ccc;">  
+  <li>
+  {{ if ne $currentPageIndex $prevLinkIndex }}
+    {{$prevPage := index $sitePages $prevLinkIndex}}
+      <a href="{{ $prevPage.Link }}">{{ i18n "prev" }}</a>
+      {{ end }}
+    </li>
+    <li>
+  {{ if ne $currentPageIndex $nextLinkIndex }}
+    {{$nextPage := index $sitePages $nextLinkIndex}}
+      <a href="{{ $nextPage.Link }}">{{ i18n "next"}}</a>
+      {{ end }}
+    </li>
+</ul>
+{{ end }}
