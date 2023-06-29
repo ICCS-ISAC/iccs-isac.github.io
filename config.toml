@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 theme = 'hugo-book'
 defaultContentLanguage = 'en'
+enableGitInfo = true
 [languages]
   [languages.en]
     languageName = "English"
@@ -10,6 +11,7 @@ defaultContentLanguage = 'en'
     [languages.en.params]
       description = "ICCS GitHub Content"
       author = "ICCS OSS Working Group and Open North"
+      BookEditPath = 'edit/main'
   [languages.fr]
     languageName = "Français"
     title = "Contenu GitHub de l'ISAC"
@@ -18,4 +20,15 @@ defaultContentLanguage = 'en'
     [languages.fr.params]
       description = "Contenu GitHub de l'ISAC"
       author = "Groupe de travail du logiciel libre de l'ISAC et Nord Ouvert"
+      BookEditPath = 'edit/main'
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Github"
+  url = "https://github.com/ICCS-ISAC/iccs-isac.github.io"
+  weight = 10
+[params]
+  BookRepo = 'https://github.com/ICCS-ISAC/iccs-isac.github.io'
+  BookDateFormat = '2006-01-02'
+
 
