@@ -1,6 +1,6 @@
 ---
 title: Course Overview
-weight: 2
+weight: 4
 ---
 
 # {{< param title >}}

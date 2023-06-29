@@ -2,7 +2,7 @@
 title: "Module 4 : Sécurité et mise à niveau des logiciels libres"
 bookCollapseSection: true
 url: "docs/logiciels_libres/module_4/"
-weight: 6
+weight: 8
 ---
 
 # {{< param title >}}

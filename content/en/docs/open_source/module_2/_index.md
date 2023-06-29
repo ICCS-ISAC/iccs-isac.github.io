@@ -1,7 +1,7 @@
 ---
 title: "Module 2: Building an Open Source Enabling Environment"
 bookCollapseSection: true
-weight: 4
+weight: 6
 ---
 
 # {{< param title >}}

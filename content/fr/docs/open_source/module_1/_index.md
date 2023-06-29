@@ -2,7 +2,7 @@
 title: "Module 1 : Introduction aux logiciels libres"
 bookCollapseSection: true
 url: "docs/logiciels_libres/module_1/"
-weight: 3
+weight: 5
 ---
 
 # {{< param title >}}

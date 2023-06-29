@@ -1,6 +1,7 @@
 ---
 title: Open Source Software in Government
 description: A Course for Public Sector Executives
+weight: 2
 ---
 
 # {{< param title >}}

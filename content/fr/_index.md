@@ -1,5 +1,7 @@
 ---
 title: Contenu GitHub de l'ISAC
+weight: 0
+disablenavlinks: true
 --- 
 
 # Contenu GitHub de l'Institut du service centré sur le citoyen

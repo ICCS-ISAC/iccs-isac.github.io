@@ -2,7 +2,7 @@
 title: "Module 2 : Création d'un écosystème du logiciel libre"
 bookCollapseSection: true
 url: "docs/logiciels_libres/module_2/"
-weight: 4
+weight: 6
 ---
 
 # {{< param title >}}

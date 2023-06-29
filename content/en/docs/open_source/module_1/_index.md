@@ -1,7 +1,7 @@
 ---
 title: "Module 1: Introduction to Open Source Software"
 bookCollapseSection: true
-weight: 3
+weight: 5
 ---
 
 # {{< param title >}}

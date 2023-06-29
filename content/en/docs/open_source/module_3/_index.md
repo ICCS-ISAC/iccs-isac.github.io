@@ -1,7 +1,7 @@
 ---
 title: "Module 3: Procurement, Contracting and Budgeting for Open Source Software"
 bookCollapseSection: true
-weight: 5
+weight: 7
 ---
 
 # {{< param title >}}

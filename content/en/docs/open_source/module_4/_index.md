@@ -1,7 +1,7 @@
 ---
 title: "Module 4: Open Source Software Security and Maintenance"
 bookCollapseSection: true
-weight: 6
+weight: 8
 ---
 
 # {{< param title >}}

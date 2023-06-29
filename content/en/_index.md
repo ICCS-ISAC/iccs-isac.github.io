@@ -1,5 +1,7 @@
 ---
 title: ICCS GitHub Content
+weight: 0
+disablenavlinks: true
 ---
 
 # Institute for Citizen-Centred Service's GitHub Content

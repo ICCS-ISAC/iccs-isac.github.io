@@ -2,7 +2,7 @@
 title: "Module 3: Approvisionnement, budgétisation et passation de marchés"
 bookCollapseSection: true
 url: "docs/logiciels_libres/module_3/"
-weight: 5
+weight: 7
 ---
 
 # {{< param title >}}

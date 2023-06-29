@@ -1,7 +1,7 @@
 ---
 title: "Module 5: Collaborating on Open Source Software"
 bookCollapseSection: true
-weight: 7
+weight: 9
 ---
 
 # {{< param title >}}
