@@ -22,13 +22,13 @@
   <li>
   {{ if ne $currentPageIndex $prevLinkIndex }}
     {{$prevPage := index $sitePages $prevLinkIndex}}
-      <a href="{{ $prevPage.Link }}">{{ i18n "prev" }}</a>
+      <a href="{{ $prevPage.Link }}" id="prev-page">{{ i18n "prev" }}</a>
       {{ end }}
     </li>
     <li>
   {{ if ne $currentPageIndex $nextLinkIndex }}
     {{$nextPage := index $sitePages $nextLinkIndex}}
-      <a href="{{ $nextPage.Link }}">{{ i18n "next"}}</a>
+      <a href="{{ $nextPage.Link }}" id="next-page">{{ i18n "next"}}</a>
       {{ end }}
     </li>
 </ul>
